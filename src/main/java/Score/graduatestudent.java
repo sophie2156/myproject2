@@ -1,6 +1,8 @@
-package hello;
+package Score;
 
-public class graduatestudent extends scoring2{
+import Score.scoring2;
+
+public class graduatestudent extends scoring2 {
     int thesis;
     public  graduatestudent (String name,int english,int math,int thesis){
         super(name,english,math);

@@ -1,4 +1,4 @@
-package hello;
+package Score;
 
 public class scoring2 {
     String name;

@@ -1,8 +1,6 @@
-package hello;
+package Sales;
 
-import java.sql.SQLOutput;
-
-public class SilverCustomer extends Costumor{
+public class SilverCustomer extends Costumor {
    public SilverCustomer(String id,int amount){
        super(id,amount);
    }

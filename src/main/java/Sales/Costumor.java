@@ -1,4 +1,4 @@
-package hello;
+package Sales;
 
 public class Costumor {
     String id;

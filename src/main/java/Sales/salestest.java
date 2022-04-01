@@ -1,4 +1,4 @@
-package hello;
+package Sales;
 
 public class salestest {
     public static void main(String[] args){
