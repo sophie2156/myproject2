@@ -1,19 +1,20 @@
-package Score;
+package score;
 
-import Score.scoring2;
-
-public class graduatestudent extends scoring2 {
+public class GraduateStudent extends Student {
     int thesis;
-    public  graduatestudent (String name,int english,int math,int thesis){
-        super(name,english,math);
-        this.thesis=thesis;
+    public GraduateStudent(String name,
+                           int english,
+                           int math,
+                           int thesis) {
+        super(name, english, math);
+        this.thesis = thesis;
     }
-    public graduatestudent(String name){
-        super(name);}
 
     @Override
-    public void print(){System.out.println(name +"\t"+english+"\t"+math);}
-
+    public void print() {
+        System.out.println(name+"\t"+english+"\t"+
+                math + "\t" + getAverage() +
+                "\t" + thesis);
+    }
 }
-
 
