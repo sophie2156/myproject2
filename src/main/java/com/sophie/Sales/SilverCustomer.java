@@ -1,4 +1,4 @@
-package Sales;
+package com.sophie.Sales;
 
 public class SilverCustomer extends Costumor {
    public SilverCustomer(String id,int amount){

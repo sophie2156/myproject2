@@ -1,4 +1,4 @@
-package ticket;
+package com.sophie.ticket;
 
 public class Ticket {
     public static final int RAINBOW = 50;

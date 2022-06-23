@@ -1,4 +1,4 @@
-package tic;
+package com.sophie.tic;
 
 public class Station {
     public class Station {

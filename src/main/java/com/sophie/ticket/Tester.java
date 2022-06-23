@@ -1,4 +1,4 @@
-package ticket;
+package com.sophie.ticket;
 
 import java.util.Scanner;
 import java.util.ArrayList;

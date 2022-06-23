@@ -1,4 +1,4 @@
-package ticket;
+package com.sophie.ticket;
 
 public class Station {
     public static final Station RAINBOW=

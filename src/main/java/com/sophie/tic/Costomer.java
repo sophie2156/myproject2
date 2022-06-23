@@ -1,4 +1,4 @@
-package tic;
+package com.sophie.tic;
 
 import java.util.ArrayList;
 import java.util.List;

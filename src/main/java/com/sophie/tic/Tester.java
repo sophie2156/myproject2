@@ -1,4 +1,4 @@
-package tic;
+package com.sophie.tic;
 
 public class Tester {
     import java.util.Scanner;

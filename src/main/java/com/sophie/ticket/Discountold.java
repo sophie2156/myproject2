@@ -1,4 +1,4 @@
-package ticket;
+package com.sophie.ticket;
 
 public class Discountold extends Ticket {
     float ooff =0.5f;

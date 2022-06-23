@@ -1,4 +1,4 @@
-package Sales;
+package com.sophie.Sales;
 
 public class salestest {
     public static void main(String[] args){
